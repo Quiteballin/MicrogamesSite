@@ -19,3 +19,6 @@ Gemfile.lock
 
 # Dumb Mac file
 .DS_Store
+
+# Hugo file suggested to be gitignored 
+.hugo_build.lock

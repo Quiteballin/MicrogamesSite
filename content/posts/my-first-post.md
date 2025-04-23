@@ -1,7 +1,7 @@
 +++
 date = '2025-04-23T07:46:39-05:00'
-draft = true
-title = 'Postin on these hoes'
+draft = false
+title = ''
 +++
 ## Why choose to post
 
