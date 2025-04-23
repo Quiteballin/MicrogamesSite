@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Apr 2025 07:46:39 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postin on these hoes</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;why-choose-to-post&#34;&gt;Why choose to post&lt;/h2&gt;&#xA;&lt;p&gt;If you &lt;strong&gt;don&amp;rsquo;t&lt;/strong&gt; post then you simply are &lt;em&gt;not&lt;/em&gt; the most.&lt;/p&gt;&#xA;&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;&#xA;&lt;p&gt;And if you are &lt;em&gt;not&lt;/em&gt; the most then&amp;hellip; how can you even begin to boast?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
