@@ -12,47 +12,51 @@
 
 [[main]]
   name = "Home"
-  pageRef = "posts"
+  pageRef = "_index.md"
   weight = 10
 
 [[main]]
   name = "Augmented Reality"
+  pageRef = "ar-info.md"
   weight = 20
 
 [[main]]
   name = "Info "
   parent = "Augmented Reality"
-  pageRef = "posts"
-  weight = 25
+  pageRef = "ar-info.md"
+  weight = 19
 
 [[main]]
   name = "Demos "
   parent = "Augmented Reality"
-  pageRef = "posts"
+  pageRef = "ar-demos.md"
   weight = 20
 
 [[main]]
   name = "Games"
+  pageRef = "games-info.md"
   weight = 20
 
 [[main]]
   name = "Info"
   parent = "Games"
-  pageRef = "posts"
-  weight = 25
+  pageRef = "games-info.md"
+  weight = 19
 
  [[main]]
   name = "Demos"
   parent = "Games"
-  pageRef = "posts"
+  pageRef = "games-demos.md"
   weight = 20
 
   [[main]]
   name = "Pricing"
+  pageRef = "pricing.md"
   weight = 200
 
   [[main]]
   name = "Contact"
+  pageRef = "contact.md"
   weight = 2010
 
 
