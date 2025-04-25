@@ -30,11 +30,21 @@
     </item>
     
     <item>
-      <title>Games Demos</title>
-      <link>//localhost:1313/article/games-demos/</link>
+      <title>Contact</title>
+      <link>//localhost:1313/article/contact/</link>
       <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
       
-      <guid>//localhost:1313/article/games-demos/</guid>
+      <guid>//localhost:1313/article/contact/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Games Demos</title>
+      <link>//localhost:1313/games-demos/</link>
+      <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
+      
+      <guid>//localhost:1313/games-demos/</guid>
       <description></description>
       
     </item>
@@ -45,16 +55,6 @@
       <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
       
       <guid>//localhost:1313/article/games-info/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pricing</title>
-      <link>//localhost:1313/article/contact/</link>
-      <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
-      
-      <guid>//localhost:1313/article/contact/</guid>
       <description></description>
       
     </item>

@@ -21,19 +21,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/article/games-demos/</loc>
+    <loc>//localhost:1313/article/contact/</loc>
+    <lastmod>2025-04-23T07:46:39-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/games-demos/</loc>
     <lastmod>2025-04-23T07:46:39-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/article/games-info/</loc>
-    <lastmod>2025-04-23T07:46:39-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/article/contact/</loc>
     <lastmod>2025-04-23T07:46:39-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
