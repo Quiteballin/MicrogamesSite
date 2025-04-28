@@ -46,7 +46,7 @@
  [[main]]
   name = "Demos"
   parent = "Games"
-  pageRef = "games-demos.md"
+  pageRef = "games-demos-1.md"
   weight = 20
 
   [[main]]
