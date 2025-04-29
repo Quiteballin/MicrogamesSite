@@ -34,7 +34,7 @@
 
 [[main]]
   name = "Games"
-  pageRef = "games-info.md"
+  pageRef = "games"
   weight = 20
 
 [[main]]
@@ -46,7 +46,7 @@
  [[main]]
   name = "Demos"
   parent = "Games"
-  pageRef = "games-demos-1.md"
+  pageRef = "games"
   weight = 20
 
   [[main]]

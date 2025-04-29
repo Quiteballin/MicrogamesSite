@@ -5,12 +5,6 @@
     {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
     {{ partial "breadcrumbs.html" . }}
     {{ end }}
-    <h1>
-      {{ .Title | emojify }}
-    </h1>
-    <div >
-      {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
-    </div>
 
     {{ $authorsData := .Site.Data.authors }}
     {{ $taxonomies := .Site.Taxonomies.authors }}

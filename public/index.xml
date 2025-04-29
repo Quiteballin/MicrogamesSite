@@ -10,13 +10,13 @@
     <lastBuildDate>Wed, 23 Apr 2025 07:46:39 -0500</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>//localhost:1313/projects/games-demos-1/</link>
+      <title>3 Point Contest</title>
+      <link>//localhost:1313/games/3pointcontest/</link>
       <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
       
-      <guid>//localhost:1313/projects/games-demos-1/</guid>
-      <description></description>
-      
+      <guid>//localhost:1313/games/3pointcontest/</guid>
+      <description>See how many three pointers you can make.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/3pointcontest/feature_3ptthumbnail.png" />
     </item>
     
     <item>
@@ -67,6 +67,26 @@
       <guid>//localhost:1313/article/pricing/</guid>
       <description></description>
       
+    </item>
+    
+    <item>
+      <title>Stack</title>
+      <link>//localhost:1313/games/stack/</link>
+      <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
+      
+      <guid>//localhost:1313/games/stack/</guid>
+      <description>Stack blocks, but don&amp;rsquo;t let them topple.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/stack/feature_stackThumbnail.png" />
+    </item>
+    
+    <item>
+      <title>Whackamole</title>
+      <link>//localhost:1313/games/whackamole/</link>
+      <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
+      
+      <guid>//localhost:1313/games/whackamole/</guid>
+      <description>Whack as many moles as you can within the time limit.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/whackamole/feature_moleThumbnail.png" />
     </item>
     
   </channel>
