@@ -8,7 +8,7 @@ summary = "See how many three pointers you can make."
     console.log("scripts loaded");
 </script>
 
-  <iframe src="https://www.digitalseatdev.com/demos/microgames/3ptcontest/" display = flex height = 100% width = 100%></iframe>
+  <iframe src="https://quiteballin.github.io/MicrogameDemos/3ptcontest" display = flex height = 100% width = 100%></iframe>
 
 
 

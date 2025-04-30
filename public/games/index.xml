@@ -20,17 +20,37 @@
     </item>
     
     <item>
+      <title>Field Goal Kick</title>
+      <link>//localhost:1313/games/fieldgoal/</link>
+      <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
+      
+      <guid>//localhost:1313/games/fieldgoal/</guid>
+      <description>Whack as many moles as you can within the time limit.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/fieldgoal/feature_fieldGoalThumbnail.png" />
+    </item>
+    
+    <item>
+      <title>Jump Up</title>
+      <link>//localhost:1313/games/jumpup/</link>
+      <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
+      
+      <guid>//localhost:1313/games/jumpup/</guid>
+      <description>Whack as many moles as you can within the time limit.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/jumpup/feature_jumpUpThumbnail.png" />
+    </item>
+    
+    <item>
       <title>Stack</title>
       <link>//localhost:1313/games/stack/</link>
       <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
       
       <guid>//localhost:1313/games/stack/</guid>
       <description>Stack blocks, but don&amp;rsquo;t let them topple.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/stack/feature_moleThumbnail.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/stack/feature_stackThumbnail.png" />
     </item>
     
     <item>
-      <title>Whackamole</title>
+      <title>Whack-a-mole</title>
       <link>//localhost:1313/games/whackamole/</link>
       <pubDate>Wed, 23 Apr 2025 07:46:39 -0500</pubDate>
       
